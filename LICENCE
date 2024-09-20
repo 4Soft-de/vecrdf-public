@@ -1,0 +1,192 @@
+License Terms for the VEC RDF Toolkit
+-------------------------------------
+
+The following license terms govern the free licensing of the
+VEC-RDF tool (hereinafter referred to as "Software") between
+you and 4Soft GmbH (hereinafter referred to as "4Soft").
+
+
+1. Copyright and Scope of License
+
+4Soft retains all copyright and exclusive rights to the Software.
+This license grants only a limited, non-transferable right to use
+the Software, strictly within the scope defined by these license terms.
+
+
+2. Scope of Usage Rights
+
+4Soft grants you a cost-free, non-exclusive and non-transferable
+license to use the Software. The license is valid for an unlimited
+period of time and worldwide.
+
+The Software is provided with the features and functionalities it
+contains at the time of installation.
+
+The license entitles you to install the Software on one or more
+workstations and to use it for evaluation, testing, or training
+purposes.
+
+
+3. Usage Restrictions
+
+The Software may only be used for evaluation, testing, or training
+purposes. Use in production environments, particularly for operational
+business purposes or the processing of production data within
+regular workflows, is expressly prohibited. Processing real data
+is permitted for evaluation purposes, provided the Software is not
+used for productive operations.
+
+You may not integrate the Software into other software products,
+applications, services, or systems, nor use it as a component thereof.
+This includes, in particular, the use of the Software as a library,
+plugin, API, module, or in any other form where the Software is
+called or used in an automated or scripted manner.
+
+You are not permitted to market or distribute the Software.
+In particular, you may not rent, lease, lend, or sell the Software.
+
+You are not permitted to reverse engineer the Software or its
+data structures.
+
+
+4. Warranty / Liability
+
+To the extent permitted by law, 4Soft is not liable for any damages
+arising from the use or inability to use the Software.
+
+This applies in particular to lost profits, financial losses,
+business interruptions, inaccurate business information, or other
+economic losses, even if 4Soft has been advised of the possibility
+of such damages.
+
+
+5. Applicable Law
+
+The provision of the Software is governed by German law. The place
+of performance and jurisdiction is Munich.
+
+The provision is considered agreed upon when you download the Software,
+or at the latest, when you install it.
+
+Your general terms and conditions of business and purchase do not apply.
+
+
+6. Severability Clause
+
+Should individual provisions of these license terms be or become
+invalid or unenforceable, the validity of the remaining terms shall
+not be affected. In place of the invalid or unenforceable provision,
+a valid and enforceable provision shall apply, which comes as close
+as possible to the intended economic purpose. The same applies in
+the event that these license terms prove to be incomplete.
+
+
+If you have any questions, please feel free to call or write to us:
+
+
+4Soft GmbH
+Mittererstrasse 3
+DE-80336 München
+
+Tel: +49 89 5307 4444
+Email: info@4soft.de
+--------------------------------------------------------------------
+
+Lizenzbedingungen für den VEC RDF Toolkit
+------------------------------------------
+
+Die nachfolgenden Lizenzbedingungen regeln die kostenlose Überlassung
+des Werkzeugs VEC-RDF (im Folgenden als "Software" bezeichnet)
+zwischen Ihnen und der 4Soft GmbH (im Folgenden als "4Soft" bezeichnet).
+
+
+1. Urheberrechte und Lizenzumfang
+
+4Soft behält sämtliche Urheberrechte und exklusiven Rechte an der
+Software. Durch diese Lizenz wird Ihnen lediglich ein begrenztes, nicht
+übertragbares Nutzungsrecht eingeräumt, das sich ausschließlich
+auf den in diesen Lizenzbedingungen beschriebenen Umfang erstreckt.
+
+
+2. Umfang der Nutzungsrechte
+
+4Soft gewährt Ihnen eine kostenlose, nicht ausschließliche und nicht
+übertragbare Lizenz zur Nutzung der Software. Die Lizenz ist zeitlich
+unbegrenzt und weltweit gültig.
+
+Die Software wird mit den Funktionen und Eigenschaften überlassen, die
+sie zum Zeitpunkt der Installation enthält.
+
+Die Lizenz berechtigt Sie dazu, die Software auf einem oder mehreren
+Arbeitsplatzrechnern zu installieren und zu Evaluierungs-, Test- oder
+Schulungszwecken zu nutzen.
+
+
+3. Nutzungseinschränkungen
+
+Sie dürfen die Software ausschließlich zu Evaluierungs-, Test- oder
+Schulungszwecken verwenden. Der Einsatz in Produktivumgebungen,
+insbesondere für den operativen Geschäftsbetrieb oder für die
+Verarbeitung von Produktivdaten im Rahmen regulärer Arbeitsabläufe,
+ist ausdrücklich untersagt. Eine Verarbeitung realer Daten ist zu
+Evaluierungszwecken gestattet, sofern die Software nicht für den
+produktiven Betrieb genutzt wird.
+
+Sie dürfen die Software nicht in andere Softwareprodukte, Anwendungen,
+Dienste oder Systeme integrieren oder als Bestandteil solcher verwenden.
+Dies umfasst insbesondere die Verwendung der Software als Library,
+Plugin, API, Modul oder in einer anderen Form, bei der die Software
+automatisiert oder skriptgesteuert aufgerufen oder verwendet wird.
+
+Sie dürfen die Software nicht vermarkten oder vertreiben. Insbesondere
+sind Ihnen weder Vermietung noch Verleasung, Verleih oder Verkauf der
+Software gestattet.
+
+Es ist Ihnen nicht gestattet, die Software oder ihre Datenstrukturen
+zurückzuentwickeln.
+
+
+4. Gewährleistung / Haftung
+
+Soweit gesetzlich zulässig, haftet 4Soft nicht für Schäden, die
+durch die Verwendung oder die Unmöglichkeit der Verwendung der
+Software entstehen.
+
+Dies gilt insbesondere für entgangenen Geschäftsgewinn, Vermögensschäden,
+Betriebsunterbrechungen, fehlerhafte Geschäftsinformationen oder andere
+wirtschaftliche Verluste, selbst wenn 4Soft auf die Möglichkeit
+eines solchen Schadens hingewiesen wurde.
+
+
+5. Anwendbares Recht
+
+Die Überlassung der Software unterliegt deutschem Recht. Vertragsort
+und Gerichtsstand ist München.
+
+Die Überlassung gilt zu dem Zeitpunkt als vereinbart, zu dem Sie sich
+die Software durch einen Download beschafft haben, spätestens jedoch
+mit der Installation der Software.
+
+Ihre Allgemeinen Geschäfts- und Einkaufsbedingungen finden keine Anwendung.
+
+
+6. Salvatorische Klausel
+
+Sollten einzelne Bestimmungen dieser Lizenzbedingungen unwirksam oder
+undurchführbar sein oder nachträglich unwirksam oder undurchführbar
+werden, so wird dadurch die Wirksamkeit der Lizenzbedingungen im übrigen
+nicht berührt. An die Stelle der unwirksamen oder undurchführbaren
+Bestimmung soll diejenige wirksame und durchführbare Regelung treten,
+deren Wirkungen der beabsichtigten wirtschaftlichen Zielsetzung möglichst
+nahe kommen. Die vorstehenden Bestimmungen gelten entsprechend für den
+Fall, dass sich der Vertrag als lückenhaft erweist.
+
+
+Bei Fragen rufen Sie uns bitte einfach an oder schreiben uns:
+
+4Soft GmbH
+Mittererstraße 3
+80336 München
+
+Tel: +49 89 5307 4444
+Email: info@4soft.de
